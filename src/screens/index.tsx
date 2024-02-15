@@ -1,2 +1,2 @@
-export * from './main-activity/main-activity';
-export * from './login/login';
+export * from './main-activity';
+export * from './login';
