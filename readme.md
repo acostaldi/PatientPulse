@@ -41,7 +41,7 @@ Make sure you have the following software installed on your machine:
    - Clone the project repository to your local machine:
 
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/acostaldi/PatientPulse.git
      ```
 
 2. **Navigate to the Project:**
